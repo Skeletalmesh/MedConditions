@@ -1,0 +1,10 @@
+Sub folders in the repo are self explanatory
+
+/Documentation - Project plans, Code & Art naming conventions, Wish lists, etc (I recommend using GitHub's Wiki and online documenting features, when possible )
+
+/SourceArt - .Max or .Mb 3D-Model source files, Texturing PSD files, Substance painter projects(if not too large), UI Source, Icon source PSD and AI files ( Avoid exports like sliced pngs, fbx, PBR textures, as they will be in Unity Project anyways. Else we will have Duplicate-Dumpyard )
+
+/SourceUnity - Main Prototype project (Currently called "Atherosclerosis"). We can add more scenarios into that project, or create a seperate Unity Project for experimentals.
+
+25 Oct, 2017
+KC

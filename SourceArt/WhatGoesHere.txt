@@ -1,0 +1,8 @@
+Art asset source files -  
+
+3D Model source files - .max, .ma, .mb, .c4d 
+Texturing / Substance sources - .psd, .spp
+UI Sources - .psd, .ico, .ai
+Audio - .flac .aac 
+
+KC - 25 Oct, 2017 

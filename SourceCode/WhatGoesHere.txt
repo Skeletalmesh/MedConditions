@@ -1,0 +1,5 @@
+Each Sub-Folder is a Unity Project 
+
+( Note: Intermediates/Caches 'Library' folder are already ignored in Repo's .gitignore ) 
+
+KC - 25 Oct, 2017 
