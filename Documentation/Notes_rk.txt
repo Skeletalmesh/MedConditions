@@ -1,8 +1,19 @@
 Todo list for heart-model
 
+DONE
+--------------------------------------------------
+1) White background. Pastel shades may also be OK ||   DONE
+2) Default screen-resolution to be smaller.       ||   DONE (Better to use demo laptop)
+3) Maintain regular builds                        ||   NOT a specific task - 
+4) Create WebGL version                           ||   NOT SURE IF WE SHOULD DO WEBGL FOR PROTOTYPE                         
+5) Modelling - Stent 
+6) Modelling - Catheter
+7) Modelling - Balloon 
+8) Modelling - Human Male
+9) Modelling - Lungs
+10) Modelling - Red blood cells
 
-1) White background. Pastel shades may also be OK.
-2) Default screen-resolution to be smaller. 
-3) Maintain regular builds
-4) Create WebGL version
 
+10) Code for runtime deformation of models - Mesh modifiers
+11) Shader for Translucent-Containing body (For Human male) - Regular alpha-transparency not good
+12) Shader for UV-Scrolling animation (to show blood flow)
