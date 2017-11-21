@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 410a8cad73787e943a93eee1fa166bf8
+timeCreated: 1510891140
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Arteries
+    100002: ArteryPlaqued
+    100004: Balloon
+    100006: Catheter
+    100008: //RootNode
+    100010: Heart_MI_Viz
+    100012: HP_Large_Arteries
+    100014: HP_Large_Viens
+    100016: HP_OuterWalls
+    100018: pArteryBranches
+    100020: PArtey_CutOut
+    100022: Plaque_PostBaloon
+    100024: Plaque_PRE_Balloon
+    100026: Plaque_PRE_Balloon_Backup
+    100028: Stent
+    100030: Viens
+    100032: Balloon_Curved
+    100034: Balloon_Ends
+    100036: Baloon_Inflatable
+    100038: Baloon_Inflatable001
+    100040: SCAR_TISSUE
+    400000: Arteries
+    400002: ArteryPlaqued
+    400004: Balloon
+    400006: Catheter
+    400008: //RootNode
+    400010: Heart_MI_Viz
+    400012: HP_Large_Arteries
+    400014: HP_Large_Viens
+    400016: HP_OuterWalls
+    400018: pArteryBranches
+    400020: PArtey_CutOut
+    400022: Plaque_PostBaloon
+    400024: Plaque_PRE_Balloon
+    400026: Plaque_PRE_Balloon_Backup
+    400028: Stent
+    400030: Viens
+    400032: Balloon_Curved
+    400034: Balloon_Ends
+    400036: Baloon_Inflatable
+    400038: Baloon_Inflatable001
+    400040: SCAR_TISSUE
+    2300000: Arteries
+    2300002: ArteryPlaqued
+    2300004: Balloon
+    2300006: Catheter
+    2300008: HP_Large_Arteries
+    2300010: HP_Large_Viens
+    2300012: HP_OuterWalls
+    2300014: pArteryBranches
+    2300016: PArtey_CutOut
+    2300018: Plaque_PostBaloon
+    2300020: Plaque_PRE_Balloon
+    2300022: Plaque_PRE_Balloon_Backup
+    2300024: Stent
+    2300026: Viens
+    2300028: Balloon_Curved
+    2300030: Balloon_Ends
+    2300032: Baloon_Inflatable
+    2300034: Baloon_Inflatable001
+    2300036: SCAR_TISSUE
+    3300000: Arteries
+    3300002: ArteryPlaqued
+    3300004: Balloon
+    3300006: Catheter
+    3300008: HP_Large_Arteries
+    3300010: HP_Large_Viens
+    3300012: HP_OuterWalls
+    3300014: pArteryBranches
+    3300016: PArtey_CutOut
+    3300018: Plaque_PostBaloon
+    3300020: Plaque_PRE_Balloon
+    3300022: Plaque_PRE_Balloon_Backup
+    3300024: Stent
+    3300026: Viens
+    3300028: Balloon_Curved
+    3300030: Balloon_Ends
+    3300032: Baloon_Inflatable
+    3300034: Baloon_Inflatable001
+    3300036: SCAR_TISSUE
+    4300000: HP_Large_Viens
+    4300002: HP_Large_Arteries
+    4300004: HP_OuterWalls
+    4300006: Arteries
+    4300008: ArteryPlaqued
+    4300010: pArteryBranches
+    4300012: PArtey_CutOut
+    4300014: Plaque_PostBaloon
+    4300016: Plaque_PRE_Balloon
+    4300018: Plaque_PRE_Balloon_Backup
+    4300020: Viens
+    4300022: Catheter
+    4300024: Balloon
+    4300026: Stent
+    4300028: SCAR_TISSUE
+    4300030: Balloon_Ends
+    4300032: Baloon_Inflatable
+    4300034: Balloon_Curved
+    4300036: Baloon_Inflatable001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
